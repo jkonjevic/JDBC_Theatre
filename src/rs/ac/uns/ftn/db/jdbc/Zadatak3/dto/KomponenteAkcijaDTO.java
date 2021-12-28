@@ -81,7 +81,7 @@ public class KomponenteAkcijaDTO {
     }
 
     public static String getFormattedHeader() {
-        return String.format("%-15s %-6s %-8s %-15s %-15s %-15s %-10s ", "NAZIV AKCIJE", "POPUST AKCIJE", "IDK", "NAZIVK", "TIP", "PROIZVODJAC", "CENA");
+        return String.format("%-15s %-6s %-8s %-15s %-15s %-15s %-10s ", "NAZIVAkc", "POPUST", "IDK", "NAZIVK", "TIP", "PROIZVODJAC", "CENA");
     }
 
 }

@@ -198,7 +198,7 @@ public class ComplexQueryUIHandler {
 			temp = temp*(1-popust);
 			suma += temp;
 			brKomponenti = komponenteLista.size();
-			System.out.println(k+"                       "+temp);
+			System.out.println(k+"           "+temp);
 			System.out.println("---------------------------------------------------------------------------------------------------------------------------------");
 		}
 	}
